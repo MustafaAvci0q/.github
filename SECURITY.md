@@ -28,4 +28,5 @@ This information will help us triage your report more quickly.
 
 ## Policy
 
-See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)![IMG_20230512_023053_677](https://github.com/github/.github/assets/125862711/49c970bd-7ca1-49ca-b671-206e010806ea)
+
